@@ -6,7 +6,6 @@ type
 	end;
 	
 	var PH:PList=nil;
-		//q,
 		p:plist;
 		key:integer;
 BEGIN
